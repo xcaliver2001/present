@@ -1,0 +1,14 @@
+streamlit
+pandas
+hashlib
+pydeck
+folium
+streamlit_folium
+matplotlib
+plotly
+datetime
+subprocess
+sys
+streamlit_google_auth
+streamlit_authenticator
+yfinance
