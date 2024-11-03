@@ -2,7 +2,7 @@ streamlit
 pandas
 hashlib
 pydeck
-folium
+folium==0.18.0
 streamlit_folium
 matplotlib
 plotly
